@@ -123,10 +123,8 @@ const Skills = () => {
   const skillCards = [
     { name: "Java", icon: "☕", color: "#007396" },
     { name: "JavaScript", icon: "JS", color: "#F7DF1E" },
-    { name: "Node.js (Basic)", icon: "🟢", color: "#68A063" },
     { name: "Spring Boot", icon: "🍃", color: "#6DB33F" },
     { name: "SQL", icon: "🗄️", color: "#4479A1" },
-    { name: "MongoDB", icon: "🍃", color: "#47A248" },
     { name: "HTML", icon: "🌐", color: "#E34F26" },
     { name: "CSS", icon: "🎨", color: "#1572B6" },
     { name: "Git", icon: "🔀", color: "#F05032" },
@@ -209,13 +207,13 @@ const Projects = () => {
     },
     {
       title: "Pregnancy & Baby Care",
-      desc: "A holistic health monitoring system built with React.js, Node.js, and Supabase. Tracks maternal health metrics during pregnancy and newborn development post-delivery. Features include automated vaccination reminders, digital health records, and growth tracking charts.",
-      tags: ["React.js", "Node.js", "Supabase", "Express"],
+      desc: "A holistic health monitoring system built with React.js and Supabase. Tracks maternal health metrics during pregnancy and newborn development post-delivery. Features include automated vaccination reminders, digital health records, and growth tracking charts.",
+      tags: ["React.js", "Supabase", "Healthcare", "REST API"],
       gradient: "gradient-1"
     },
     {
       title: "FarmSmart AI",
-      desc: "A precision agriculture mobile app built with Flutter. Integrates real-time weather data, Soil Health Card analysis, and AI-driven Leaf Color Chart analysis for fertilizer recommendations. Uses a Python backend for ML model processing and Supabase for data storage.",
+      desc: "A precision agriculture mobile app built with Flutter. Integrates real-time weather data, Soil Health Card analysis, and AI-driven Leaf Color Chart analysis for fertilizer recommendations. Uses Python for ML model processing and Supabase for data storage.",
       tags: ["Flutter", "Python", "TensorFlow", "Supabase"],
       gradient: "gradient-2"
     },
