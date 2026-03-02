@@ -121,23 +121,24 @@ const About = () => (
 
 const Skills = () => {
   const skillCards = [
-    { name: "React.js", icon: "⚛️", color: "#61DAFB" },
-    { name: "Node.js", icon: "🟢", color: "#68A063" },
-    { name: "Express.js", icon: "⚡", color: "#000000" },
-    { name: "MongoDB", icon: "🍃", color: "#47A248" },
-    { name: "Redux", icon: "🔄", color: "#764ABC" },
-    { name: "JavaScript", icon: "JS", color: "#F7DF1E" },
-    { name: "HTML5", icon: "🌐", color: "#E34F26" },
-    { name: "CSS3", icon: "🎨", color: "#1572B6" },
-    { name: "Tailwind CSS", icon: "💨", color: "#06B6D4" },
-    { name: "Git & GitHub", icon: "🔀", color: "#F05032" },
     { name: "Java", icon: "☕", color: "#007396" },
+    { name: "JavaScript", icon: "JS", color: "#F7DF1E" },
+    { name: "Node.js (Basic)", icon: "🟢", color: "#68A063" },
     { name: "Spring Boot", icon: "🍃", color: "#6DB33F" },
-    { name: "Flutter", icon: "📱", color: "#02569B" },
-    { name: "Python", icon: "🐍", color: "#3776AB" },
     { name: "SQL", icon: "🗄️", color: "#4479A1" },
-    { name: "GitHub Copilot", icon: "🤖", color: "#000000" },
-    { name: "Antigravity", icon: "🚀", color: "#FF6B6B" }
+    { name: "MongoDB", icon: "🍃", color: "#47A248" },
+    { name: "HTML", icon: "🌐", color: "#E34F26" },
+    { name: "CSS", icon: "🎨", color: "#1572B6" },
+    { name: "Git", icon: "🔀", color: "#F05032" },
+    { name: "GitHub", icon: "🐙", color: "#181717" },
+    { name: "Postman", icon: "📮", color: "#FF6C37" },
+    { name: "OOP", icon: "🧩", color: "#7C3AED" },
+    { name: "REST APIs", icon: "🔗", color: "#0891B2" },
+    { name: "SDLC", icon: "⚙️", color: "#0EA5E9" },
+    { name: "Debugging", icon: "🐞", color: "#DC2626" },
+    { name: "Unit Testing", icon: "✅", color: "#16A34A" },
+    { name: "DSA (Basic Knowledge)", icon: "📚", color: "#EA580C" },
+    { name: "Familiar with AI", icon: "🤖", color: "#000000" }
   ];
 
   const interests = [
