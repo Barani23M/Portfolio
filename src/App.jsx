@@ -44,12 +44,12 @@ const Hero = () => (
         <h1>Hi, I'm <span className="text-gradient">Barani A</span></h1>
         <h2 className="role-title">Software Developer</h2>
         <p className="subtitle">
-          A passionate Computer Science Engineering student equipped with strong foundations in <strong>Java, Flutter, and React</strong>. I am eager to launch my career in the IT industry, ready to tackle challenging projects and contribute to team success immediately.
-        </p>
+  A passionate <strong>Computer Science Engineering graduate (2026)</strong> with strong foundations in <strong>Java, Spring Boot, React.js, JavaScript, SQL, AWS, and Linux</strong>. I enjoy building practical applications, solving real-world problems, and continuously learning new technologies. I am eager to begin my career in <strong>software development</strong>, contribute to challenging projects, and grow as a skilled software engineer.
+</p>
         <div className="cta-group">
           <a href="#contact" className="btn btn-primary">Hire Me</a>
           <a href="#projects" className="btn btn-outline">View Projects</a>
-          <a href="/Portfolio/resume.pdf" className="btn btn-outline" download>Download CV</a>
+          <a href="/Portfolio/Barani.pdf" className="btn btn-outline" download>Download CV</a>
         </div>
         <div className="social-links">
           <a href="mailto:jayambarani27@gmail.com" className="social-icon" title="Email">📧</a>
@@ -57,7 +57,7 @@ const Hero = () => (
           <a href="https://www.linkedin.com/in/barani-a-927b41257/" target="_blank" rel="noopener noreferrer" className="social-icon" title="LinkedIn">🔗</a>
           <a href="https://github.com/Barani23M" target="_blank" rel="noopener noreferrer" className="social-icon" title="GitHub">💻</a>
         </div>
-        <p className="location-tag">📍 Dharmapuri, Tamil Nadu (Willing to Relocate)</p>
+        <p className="location-tag">📍 Bangalore,Karnataka</p>
       </div>
       <div className="hero-visual flex-center">
         <div className="profile-container">
@@ -76,11 +76,12 @@ const About = () => (
         <div className="about-grid">
           <div className="about-text">
             <p className="about-description">
-              I am a final-year <strong>B.E. Computer Science and Engineering</strong> student at Excel Engineering College with a CGPA of <strong>7.95</strong>. My journey has been driven by a curiosity to understand how software solves real-world problems.
-            </p>
-            <p className="about-description mt-4">
-              I have hands-on experience building web and mobile applications through internships and academic projects. I am currently <strong>seeking an entry-level software development role</strong> where I can apply my skills in <strong>Java, SQL, and Frontend Technologies</strong> while learning from experienced professionals. I am a quick learner, adaptable, and committed to writing clean, efficient code.
-            </p>
+  I am a <strong>B.E. Computer Science and Engineering graduate (2026)</strong> from Excel Engineering College with a CGPA of <strong>7.95</strong>. My journey in technology has been driven by curiosity and a passion for understanding how software can solve real-world problems.
+</p>
+
+<p className="about-description mt-4">
+  I have hands-on experience building web and mobile applications through internships, academic projects, and hackathons. I have worked with <strong>Java, Spring Boot, JavaScript, React.js, SQL, AWS, Linux, HTML, and CSS</strong>, along with <strong>REST APIs, Git/GitHub, and Data Structures & Algorithms</strong>. I am currently <strong>seeking an entry-level software development role</strong> where I can apply my technical skills, contribute to real-world projects, and continue learning from experienced professionals. I am a quick learner, adaptable, and committed to writing clean, efficient, and maintainable code.
+</p>
 
             <div className="info-grid mt-8">
               <div className="info-item">
