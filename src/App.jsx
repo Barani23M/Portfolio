@@ -49,7 +49,7 @@ const Hero = () => (
         <div className="cta-group">
           <a href="#contact" className="btn btn-primary">Hire Me</a>
           <a href="#projects" className="btn btn-outline">View Projects</a>
-          <a href="/Portfolio/Barani.pdf" className="btn btn-outline" download>Download CV</a>
+          <a href="/Portfolio/Barani A.pdf" className="btn btn-outline" download>Download CV</a>
         </div>
         <div className="social-links">
           <a href="mailto:jayambarani27@gmail.com" className="social-icon" title="Email">📧</a>
